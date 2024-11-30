@@ -30,21 +30,22 @@ Syntax highlighted code block
 
 자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact
+## Support or Contact
 
 # 유레카프로젝트 2팀
 
 ## 1주차
 
-###팀 정하기
-팀장: 정호용
+팀 정하기 \
+팀장: 정호용 \
 팀원: 박주호, 박참솔, 노형준, 기우항
 
 ## 2주차
 
-###팀 소개 및 계획에 대한 발표
+팀 소개 및 계획에 대한 발표
 ![image](https://github.com/user-attachments/assets/448ae76a-668b-4fcd-8842-273c1c247b20)
 팀의 슬로건: 매일 1퍼센트 씩 성장해보자!
+
 ```markdown
 int main()
 {
@@ -78,7 +79,7 @@ int main()
 
 팀원분들에 관심사가 다양했고 다같이 진로에 대해 얘기할 수 있어서 좋았다. 외에 학교에서 다양하게 이용할 수 있는 프로그램들에 대해 알 수 있는 좋은 기회였다. 이후 해당 프로그램에 대해 이용해볼 계획이다.
 
-6. 기우항
+5. 기우항
 
 팀원을 알게 되어 기쁘고 이번 수업을 듣게 되어 기쁩니다. 이 수업은 여러 사람들의 다양한 관심사를 알게 해 주었습니다. 저에게도 커리어 플랜이 생겼습니다.
 
